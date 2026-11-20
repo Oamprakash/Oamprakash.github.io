@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.oamsapps.warmintro",
+      "sha256_cert_fingerprints": [
+        "D6:CC:99:2F:8A:A8:8E:7D:B4:C1:C9:BE:40:FF:43:FB:CF:79:EC:99:F1:8F:61:8F:E1:08:8B:66:6E:DD:EC:50"
+      ]
+    }
+  }
+]
